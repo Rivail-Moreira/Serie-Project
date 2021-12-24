@@ -1,0 +1,5 @@
+C:\Users\Rivail\source\repos\ProjectSeries\ProjectSeries\obj\Debug\net5.0\ProjectSeries.csproj.AssemblyReference.cache
+C:\Users\Rivail\source\repos\ProjectSeries\ProjectSeries\obj\Debug\net5.0\ProjectSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rivail\source\repos\ProjectSeries\ProjectSeries\obj\Debug\net5.0\ProjectSeries.AssemblyInfoInputs.cache
+C:\Users\Rivail\source\repos\ProjectSeries\ProjectSeries\obj\Debug\net5.0\ProjectSeries.AssemblyInfo.cs
+C:\Users\Rivail\source\repos\ProjectSeries\ProjectSeries\obj\Debug\net5.0\ProjectSeries.csproj.CoreCompileInputs.cache
